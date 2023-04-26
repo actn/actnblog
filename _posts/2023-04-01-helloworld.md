@@ -8,10 +8,10 @@ background: '/img/posts/hello.jpg'
 
 # Merhaba Dünya
 
-Kişisel notlarımı derleyerek haftalık olarak paylaşmaya çalışacağım bloguma hoş geldiniz. Günlük rutinimiz içerisinde not almak bir çoğumuzun yaptığı bir eylem olsada bu notlara tekrar göz gezdirip öğrendiğimiz şeyleri kalıcı hale getirmek çok azımızın yaptığı bir eylem.
+Kişisel notlarımı derleyerek haftalık olarak paylaşmaya çalışacağım bloguma hoş geldiniz. Aktif öğrenme esnasında not almak bir çoğumuzun yaptığı bir eylem fakat sonrasında bu notlar ne kadar kullanılıyor muamma. Bir köşede kaderine terkedilen notlarım için hayata dönme zamanı geldi.
 
-Biriken notlarıma baktığımda bu durumdan rahatsız oldum ve derlerek yayınlamaya karar verdim. Belki paylaşınca ve görünür hale gelince hem işe yarar hemde hep gözümün önünde olur düşüncesi ile bu blogu oluşturdum. Umarım benden başka birilerine de faydası olur. 
+Bu notların atıllığının verdiği rahatsızlık, belki paylaşınca ve görünür hale gelince işe yarar ve hep gözümün önünde olur düşüncesi bu blogu oluşturmama sebep oldu. Biraz vicdan rahatlatma eylemi gibi görünsede umarım yolu buraya düşen herkese fayda sağlar.
 
-Katkılarından ötürü eşime ve onlara ayıracağım zamanımdan ayırıp bu blogu oluşturma imkanı veren fedakar çocuklarıma peşin teşekkürlerimle.
+Katkılarından ötürü eşime ve beraber geçireceğimiz zamandan feragat edip bu blogu oluşmasına imkan sağlayan fedakar çocuklarıma peşin teşekkürlerimle.
 
 Görüşmek üzere.
